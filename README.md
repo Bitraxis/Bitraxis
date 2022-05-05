@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Bitraxis/Bitraxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is bitraxis and im a very lame coder.
 
-Here are some ideas to get you started:
+### Im gonna try to make some projects mainly in java and c, c#, c++, and i also try to make my own compilers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!IM A LINUX CODER SO IF I SOMETIMES DONT UPLOAD CROSS PLATFORM THINGS JUST IGNORE BUT I ALWAYS TRY TO MAKE THINGS CROSS PLATFORM!
+
+/ Pronouns : He/Him
+
+
+? Why Bitraxis? Bitraxis is a old nickname that i use it means "Bit rotated in a axis" my even older name was BitraxisZ as it meant "Bit rotated in a axis of Z" ?
+
+That's it folks!!!!!
