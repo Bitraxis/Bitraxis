@@ -6,7 +6,7 @@
 
 !IM A LINUX CODER SO IF I SOMETIMES DONT UPLOAD CROSS PLATFORM THINGS JUST IGNORE BUT I ALWAYS TRY TO MAKE THINGS CROSS PLATFORM!
 
-/ Pronouns : He/Him
+/ Pronouns : She/Her
 
 
 ? Why Bitraxis? Bitraxis is a old nickname that i use it means "Bit rotated in a axis" my even older name was BitraxisZ as it meant "Bit rotated in a axis of Z" ?
